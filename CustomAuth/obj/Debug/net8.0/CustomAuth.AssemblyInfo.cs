@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomAuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc2f5fd476cbf4dde5e6f4c6373560f1fd57db4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomAuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomAuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
